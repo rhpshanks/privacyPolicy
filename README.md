@@ -8,10 +8,10 @@ external requests of any kind.
 
 ## Publishing
 
-1. Push this repository to GitHub as a **public** repository.
+1. Pushed to <https://github.com/rhpshanks/privacyPolicy>. Keep it public.
 2. Settings, then Pages, then set Source to `Deploy from a branch`, branch `main`,
    folder `/ (root)`.
-3. The policy appears at `https://<username>.github.io/sortsquad-privacy/`.
+3. The policy appears at `https://rhpshanks.github.io/privacyPolicy/`.
 
 That URL goes in two places: the Play Console listing, and `GameConfig.PrivacyPolicyUrl`
 in the game project.
