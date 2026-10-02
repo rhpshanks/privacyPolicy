@@ -21,8 +21,8 @@ That one URL goes in every game: the store listing, and the game's privacy link
 The policy splits the games into two groups, listed in the table under "Who this policy
 covers":
 
-- **Without ads** (Sort Squad, Arrow Out): collect nothing, use no network, show no ads.
-- **With ads** (Cannon Smash): Google AdMob, with Google's consent form (UMP) and an
+- **Without ads** (Sort Squad): collect nothing, use no network, show no ads.
+- **With ads** (Cannon Smash, Arrow Out): Google AdMob, with Google's consent form (UMP) and an
   in-game Privacy Options button. The "Advertising" section describes what the Google
   Mobile Ads SDK collects.
 
